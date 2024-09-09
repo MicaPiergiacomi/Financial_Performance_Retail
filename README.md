@@ -6,6 +6,8 @@ El objetivo principal es proporcionar una visualización clara y concisa de los 
 
 El dashboard fue diseñado utilizando Power BI para el análisis de datos y Figma para mejorar el aspecto visual y la experiencia de usuario.
 
+https://app.powerbi.com/view?r=eyJrIjoiOTNjNDk4NDgtY2RjNy00NjA5LTg0ZjctYmJkYzEyZmVlN2VjIiwidCI6IjVlYzNkNjBkLTA3NDEtNGNkZC1iMjYwLWM2MjE3OGVjMzJiYSIsImMiOjR9
+
 ## Características Principales
 -  Filtros por categoría de productos: Permite a los usuarios explorar productos específicos y su rendimiento.
 -  Análisis de ventas mensuales: Presenta un gráfico de barras con los ingresos por mes, facilitando la identificación de tendencias.
